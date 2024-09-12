@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cd675bc3c214bfd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56edc76e9e767c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb90fea92b987186",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "papers/Recent advancement in cancer diagnosis using machine learning and deep learning techniques.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "029d40a83c184cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfffd388019515c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9509c1ceab6159",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ae411eca543bfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78c26c6d51b74d08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5afb4d259836a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94d1be6ce95576a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "277413df8bf16021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "papers/Recent advancement in cancer diagnosis using machine learning and deep learning techniques.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "795ceea69465ee3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "papers/Recent advancement in cancer diagnosis using machine learning and deep learning techniques.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d97930e89189eedf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9adcee96b9e7154",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "papers/Recent advancement in cancer diagnosis using machine learning and deep learning techniques.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb90fea92b987186",
+  "lastOpenFiles": [
+    "papers/Prostate Cancer Probability Prediction By Machine Learning Technique.pdf",
+    "papers/Machine Learning in Medical Imaging.pdf",
+    "papers/Machine learning in medical applications.pdf",
+    "papers/Breast cancer detection by leveraging Machine Learning.pdf",
+    "research.7z",
+    "~$ilização de Técnicas de Aprendizagem de Maquina para Diagnostico de Cancer.docx",
+    "~WRL3656.tmp",
+    "~WRD3648.tmp",
+    "Utilização de Técnicas de Aprendizagem de Maquina para Diagnostico de Cancer.docx",
+    "papers/A_Comprehensive_Review_for_Breast_Histopathology_Image_Analysis_Using_Classical_and_Deep_Neural_Networks.pdf",
+    "papers/A_Comprehensive_Review_for_Breast_Histopathology_Image_Analysis_Using_Classical_and_Deep_Neural_Networks.pdf.opdownload",
+    "annotations/Summary Machine learning approaches in medical image analysis From detection to diagnosis.md",
+    "annotations/Summary Breast cancer outcome prediction with tumour tissue images and machine learning.md",
+    "annotations/Sumary Breast cancer detection by leveraging Machine Learning.md",
+    "annotations/Breast cancer detection by leveraging Machine Learning.md",
+    "annotations/Summaries.md",
+    "annotations/S.md",
+    "annotations/Untitled.md",
+    "annotations/Introduction.md"
+  ]
+}
